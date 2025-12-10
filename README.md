@@ -10,6 +10,9 @@ In order to run the feature coding for machine algorithm proposed in this paper,
 [codebook]:([https://drive.google.com/file/d/1jv3pt70uSgXHUaRnpFujRQKNYIpAdNC0/view?usp=drive_link](https://drive.google.com/file/d/10oyimLxlY2ju7rbOC31DbmhKYXEjO6r7/view?usp=sharing))
 The spikingjelly computing unit is needed：
 [spikingjelly]:(https://drive.google.com/drive/folders/1cRIdTsZMOKcs6GpSeaRJX8JOc25Sgi3Y?usp=sharing)
+SNN weight：
+[Spike-Driven Transformer]:([https://drive.google.com/drive/folders/1cRIdTsZMOKcs6GpSeaRJX8JOc25Sgi3Y?usp=sharing](https://drive.google.com/file/d/1jg8la2Ncq0kTh8OvczKpEQXsEG1celZn/view?usp=drive_link))
+
 
 ## Data preparation
 Please place your dataset files as follows before running any scripts:
