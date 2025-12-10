@@ -65,5 +65,5 @@ After the review finished, the training code will be updated.
 
  [UAV_test_interpretation]
 ---
-<img src="vis_real.jpg" width="50%">
+<img src="vis_real.jpg" width="60%">
 
