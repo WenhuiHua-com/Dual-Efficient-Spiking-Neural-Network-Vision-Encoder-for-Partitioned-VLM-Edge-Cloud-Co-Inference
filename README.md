@@ -28,17 +28,29 @@ To generate a caption for an image with SNN encoder:
 After running, some results will be output as follows:
 
 Loading codebook sets
+
 Creating model
+
 loading spikeformer successfully
+
 flickr30k-images/1921102799.jpg 100 ['a young boy playing soccer in a field']
+
 flickr30k-images/2504007911.jpg 200 ['a man riding a bike in front of a building']
+
 flickr30k-images/2900560501.jpg 300 ['a group of people in a room']
+
 flickr30k-images/327955368.jpg 400 ['a group of birds in a park']
+
 flickr30k-images/3671851846.jpg 500 ['a woman standing in a field']
+
 flickr30k-images/428979011.jpg 600 ['a man in a yellow shirt and a yellow hat']
+
 flickr30k-images/4700788144.jpg 700 ['a man riding a bike on a trail']
+
 flickr30k-images/4915716087.jpg 800 ['a man driving a horse drawn carriage']
+
 flickr30k-images/6278649113.jpg 900 ['a person doing a trick on a skateboard']
+
 flickr30k-images/97234558.jpg 1000 ['a person standing on the beach']
 
 ## follow-up work
