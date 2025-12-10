@@ -61,9 +61,9 @@ After the review finished, the training code will be updated.
 ## Some renderings based on the proposed methods in this paper
  [Visual interpretation]
 ---
-![](vis_sim.png)
+![](vis_sim.jpg)
 
  [UAV_test_interpretation1]
 ---
-![](vis_real.png)
+![](vis_real.jpg)
 
