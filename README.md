@@ -5,7 +5,7 @@ Test code for articles submitted to IEEE Transactions on Circuits and Systems fo
 Dependencies can be found in requirements.txt
 
 ## Download the pre-trained codebook or model from the link below and place them in the designated directory: 
-Pre-trained BLIP weights and BERT need to be downloaded before running. [BLIP weights used in this paper]: ([https://github.com/salesforce/BLIP](https://drive.google.com/file/d/1EZkJJwYI7zcoDOUaTDXJb_piSAp0zt_a/view?usp=sharing)) #In this paper, The BERT weights should be placed in the BERT folder（https://drive.google.com/drive/folders/1pZAzqDwhJMvo_N9JPB1pANfjMkNlqfGe?usp=sharing）.
+Pre-trained BLIP weights and BERT need to be downloaded before running. [BLIP weights used in this paper]: (https://drive.google.com/file/d/1EZkJJwYI7zcoDOUaTDXJb_piSAp0zt_a/view?usp=sharing) #In this paper, The BERT weights should be placed in the BERT folder（https://drive.google.com/drive/folders/1pZAzqDwhJMvo_N9JPB1pANfjMkNlqfGe?usp=sharing）.
 In order to run the feature coding for machine algorithm proposed in this paper, it is also necessary to download the codebook：
 [codebook]:([https://drive.google.com/file/d/1jv3pt70uSgXHUaRnpFujRQKNYIpAdNC0/view?usp=drive_link](https://drive.google.com/file/d/10oyimLxlY2ju7rbOC31DbmhKYXEjO6r7/view?usp=sharing))
 
