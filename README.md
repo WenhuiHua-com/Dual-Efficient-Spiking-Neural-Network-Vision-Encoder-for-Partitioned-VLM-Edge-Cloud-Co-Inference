@@ -9,7 +9,7 @@ Pre-trained BLIP weights and BERT need to be downloaded before running. [BLIP we
 In order to run the feature coding for machine algorithm proposed in this paper, it is also necessary to download the codebook：
 [codebook]:([https://drive.google.com/file/d/1jv3pt70uSgXHUaRnpFujRQKNYIpAdNC0/view?usp=drive_link](https://drive.google.com/file/d/10oyimLxlY2ju7rbOC31DbmhKYXEjO6r7/view?usp=sharing))
 The spikingjelly computing unit is needed：
-[spikingjelly]:([[https://drive.google.com/file/d/1jv3pt70uSgXHUaRnpFujRQKNYIpAdNC0/view?usp=drive_link](https://drive.google.com/file/d/10oyimLxlY2ju7rbOC31DbmhKYXEjO6r7/view?usp=sharing](https://drive.google.com/drive/folders/1cRIdTsZMOKcs6GpSeaRJX8JOc25Sgi3Y?usp=sharing)))
+[spikingjelly]:(https://drive.google.com/drive/folders/1cRIdTsZMOKcs6GpSeaRJX8JOc25Sgi3Y?usp=sharing)
 
 ## Data preparation
 Please place your dataset files as follows before running any scripts:
