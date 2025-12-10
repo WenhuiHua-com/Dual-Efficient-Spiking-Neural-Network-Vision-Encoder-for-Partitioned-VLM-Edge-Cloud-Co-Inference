@@ -19,7 +19,7 @@ flick/ ├── annotation/ │ └── <annotation files> └── flickr30
   - **flickr30k-images/**: Subfolder with the actual image files.
 
 Make sure to update the dataset paths in your configuration or script parameters accordingly. Also be careful to modify the path in retrieval_flickr.yaml.
-## Test hybrid progressive token compression
+## Test VLM task：image caption
 
 To generate a caption for an image with SNN encoder:
 
