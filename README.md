@@ -63,7 +63,7 @@ After the review finished, the training code will be updated.
 ---
 ![](vis_sim.jpg)
 
- [UAV_test_interpretation1]
+ [UAV_test_interpretation]
 ---
-![](vis_real.jpg)
+![width="50%"](vis_real.jpg)
 
