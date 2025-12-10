@@ -58,21 +58,12 @@ flickr30k-images/97234558.jpg 1000 ['a person standing on the beach']
 ## follow-up work
 After the review finished, the training code will be updated.
 
-## Some renderings based on the language-guided visual token compression proposed in this paper
+## Some renderings based on the proposed methods in this paper
  [Visual interpretation]
 ---
-![](importance-visual.png)
+![](vis_sim.png)
 
- [Visual interpretation1]
+ [UAV_test_interpretation1]
 ---
-![](images/visual.png)
-
-##The t-sne result
- [Language-based]
----
-![](images/aTSNE_analysis_Text_3D.png)
-
- [Norm-based]
----
-![](images/aTSNE_analysis_Max_3D.png)
+![](vis_real.png)
 
