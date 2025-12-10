@@ -8,6 +8,8 @@ Dependencies can be found in requirements.txt
 Pre-trained BLIP weights and BERT need to be downloaded before running. [BLIP weights used in this paper]: (https://drive.google.com/file/d/1EZkJJwYI7zcoDOUaTDXJb_piSAp0zt_a/view?usp=sharing) #In this paper, The BERT weights should be placed in the BERT folder（https://drive.google.com/drive/folders/1pZAzqDwhJMvo_N9JPB1pANfjMkNlqfGe?usp=sharing）.
 In order to run the feature coding for machine algorithm proposed in this paper, it is also necessary to download the codebook：
 [codebook]:([https://drive.google.com/file/d/1jv3pt70uSgXHUaRnpFujRQKNYIpAdNC0/view?usp=drive_link](https://drive.google.com/file/d/10oyimLxlY2ju7rbOC31DbmhKYXEjO6r7/view?usp=sharing))
+The spikingjelly computing unit is needed：
+[spikingjelly]:([[https://drive.google.com/file/d/1jv3pt70uSgXHUaRnpFujRQKNYIpAdNC0/view?usp=drive_link](https://drive.google.com/file/d/10oyimLxlY2ju7rbOC31DbmhKYXEjO6r7/view?usp=sharing](https://drive.google.com/drive/folders/1cRIdTsZMOKcs6GpSeaRJX8JOc25Sgi3Y?usp=sharing)))
 
 ## Data preparation
 Please place your dataset files as follows before running any scripts:
