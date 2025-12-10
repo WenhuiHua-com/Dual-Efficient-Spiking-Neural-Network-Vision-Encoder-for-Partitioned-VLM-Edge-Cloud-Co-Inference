@@ -129,7 +129,7 @@ spike_model = create_model(
     )
 print("Creating model")
 #print(spike_model)
-checkpoint_path = '/media/data/huawenhui/Spike-Driven-Transformer-main/Spike-Driven-Transformer-main/output/train/20241215-215219-resnet101-224/model_best.pth.tar'
+checkpoint_path = 'model_best.pth.tar'
 
 # Load checkpoint
 checkpoint = torch.load(checkpoint_path)
@@ -165,4 +165,5 @@ BPP = ((1 - sparsity_percentages) * 197 * 19) / (224 * 224)
 filename = f"BPP_{BPP:.4f}_Ours_Caption_spike.txt"
 with open(filename, "w") as f:
     for caption in captions:
+
         f.write(f"{caption}\n")
