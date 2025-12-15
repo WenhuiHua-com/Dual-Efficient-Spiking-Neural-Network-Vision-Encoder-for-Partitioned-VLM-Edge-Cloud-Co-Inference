@@ -18,6 +18,9 @@ The spikingjelly computing unit is needed：
 SNN weights：
 [Spike-Driven Transformer]:([https://drive.google.com/drive/folders/1cRIdTsZMOKcs6GpSeaRJX8JOc25Sgi3Y?usp=sharing](https://drive.google.com/file/d/1jg8la2Ncq0kTh8OvczKpEQXsEG1celZn/view?usp=drive_link))
 
+RKNN weights：
+[RKNN]:([https://drive.google.com/file/d/1YcCnTSAU6CysEmaC2Alz7pT6Q_oljZvc/view?usp=sharing])
+
 
 ## Data preparation
 Please place your dataset files as follows before running any scripts:
