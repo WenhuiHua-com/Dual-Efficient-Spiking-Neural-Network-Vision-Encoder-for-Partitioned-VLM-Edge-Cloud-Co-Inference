@@ -63,6 +63,14 @@ flickr30k-images/6278649113.jpg 900 ['a person doing a trick on a skateboard']
 
 flickr30k-images/97234558.jpg 1000 ['a person standing on the beach']
 
+## Running in RKNN chip
+We conducted testing on the RK3576 chip. The specific code is located in the "rk3576" folder, and the steps to run it are as follows:
+
+1. Make sure your platform is RK3576
+2. Copy "rknn_run_3576.py", "tcpserver.py" and "Rknn_3576_20250703.rknn" to your board
+3. You may need to modify the RKNN_MODEL_PATH in the "rknn_run_3576.py" file to point to the location of the rknn model
+4. Use ```python3 rknn_run_3576.py``` to run
+
 ## follow-up work
 After the review finished, the training code will be updated.
 
