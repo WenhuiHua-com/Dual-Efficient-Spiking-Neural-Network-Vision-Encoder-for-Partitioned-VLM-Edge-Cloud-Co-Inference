@@ -1,4 +1,4 @@
-# Dual-Efficient-Spiking-Neural-Network-Vision-Encoder-for-Partitioned-VLM-Edge-Cloud-Co-Inference
+# Spiking Neural Network Based Vision Encoder for Dual-Efficient Co-Inference in Large Vision Language Models
 Test code for articles submitted to IEEE Transactions on Circuits and Systems for Video Technology
 
 ## Requirements
